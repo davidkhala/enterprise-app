@@ -4,3 +4,6 @@ Deltek is the recognized global standard for **project-based businesses**
 - 30,000 customers
 
 [Products](https://www.deltek.com/en/products)
+
+## tags
+- Compete with NetSuite
